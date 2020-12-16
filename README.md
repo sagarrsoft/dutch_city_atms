@@ -1,3 +1,14 @@
+Rquirements ::
+
+Create a Java web application based on the standard servlet spec
+• The web application should provide a REST api to create a list of ING ATMs in a
+given Dutch city and return a well formed JSON response
+• The web application should invoke an external service to gather a super set of the
+data: https://www.ing.nl/api/locator/atms/
+• Use Spring and Maven. If you do not have experience in these frameworks, please
+feel free to use an alternative
+
+Solution provided
 # dutch_city_atms
 
 steps  ::
